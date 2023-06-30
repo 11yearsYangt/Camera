@@ -123,3 +123,5 @@
     initializeCamera();
 })();
 	</script>
+</body>
+</html>
